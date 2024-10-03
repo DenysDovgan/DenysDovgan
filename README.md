@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java Spring
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: via email dovgan.denys.ws@gmail.com
-- 😄 Pronouns: only 2 genders
+- 😄 Pronouns: Ham/Burger
 - ⚡ Fun fact: no
 
 <!---
